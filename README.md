@@ -1,5 +1,9 @@
 # 💫 About Me:
-A backend developer with a strong focus on Node.js, Express, and MongoDB. Currently, I’m advancing my skills through a backend development diploma that deepens my understanding of scalable architectures and API design.<br><br>I’m passionate about building efficient, secure, and maintainable systems that solve real-world problems. I enjoy exploring modern backend technologies, cloud deployment practices, and automation tools to deliver high-quality solutions.<br><br>I’m always open to collaborating on innovative backend projects and connecting with professionals in software engineering, cloud computing, and DevOps.
+Backend Developer with a strong focus on building reliable and scalable server-side applications using Node.js. Experienced in developing RESTful APIs with Express.js and NestJS, following clean architecture and best practices.
+
+Comfortable working with both SQL and NoSQL databases, including MySQL and MongoDB, with attention to data modeling, performance, and maintainability. I care about writing clean, readable code and building backend systems that are easy to test, extend, and scale.
+
+Currently focused on improving backend architecture, system design, and real-world application performance.
 
 
 ## 🌐 Socials:
